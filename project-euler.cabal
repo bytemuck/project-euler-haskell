@@ -13,4 +13,4 @@ executable project-euler
     other-modules:    PE.Common, PE.All, PE.ProblemData.P022Data
                       PE.P001, PE.P002, PE.P003, PE.P004, PE.P005, PE.P006, PE.P007, PE.P008, PE.P009, PE.P010, 
                       PE.P011, PE.P012, PE.P013, PE.P014, PE.P015, PE.P016, PE.P017, PE.P018, PE.P019, PE.P020,
-                      PE.P021, PE.P022, PE.P023, PE.P024, PE.P025, PE.P026, PE.P027, PE.P028
+                      PE.P021, PE.P022, PE.P023, PE.P024, PE.P025, PE.P026, PE.P027, PE.P028,          PE.P030
